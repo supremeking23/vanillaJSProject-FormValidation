@@ -10,6 +10,9 @@
 
 body{
     background: #fdfafb;
+    
+    background-image: url("https://www.transparenttextures.com/patterns/batthern.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
     font-family: 'Open Sans',sans-serif;
     display: flex;
     align-items: center;
